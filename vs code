@@ -1,0 +1,24 @@
+Smart Contracts are programs stored on a blockchain that run when predetermined conditions are met. We are going to create our first smart contract.
+
+Create a new folder and navigate to it.
+
+mkdir hello-smart
+cd hello-smart
+Initialize Git to convert the folder to a git repository. Then initialize Yarn to convert the project to a node package. You can also use npm also, instead of yarn.
+
+git init
+yarn init -y
+The skeleton is ready. Open the folder in a code editor. I am using Visual Studio Code. In the editor, create .gitignore file and add just one line to it.
+
+node_modules
+This will prevent Git from pushing node_modules folder to Git server.
+
+Hardhat
+Hardhat is an Ethereum development environment for us. It is a tool for building and deploying contracts to any Ethereum network. It facilitates frequent tasks like running tests, auto check code for any errors.
+
+Add hardhat as a dev dependency to the project.
+
+yarn add -D hardhat
+Even though we installed hardhat in our project, we are going to run through hardhat steps using npx command.
+
+npx hardhat
