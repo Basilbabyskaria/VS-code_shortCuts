@@ -9,6 +9,9 @@ ctrl + O
 - To save a file:
 ctrl + S
 
+- To save As:
+ctrl + shift +s
+
 - To open command palette:
 ctrl + shift + P
 
@@ -72,13 +75,32 @@ ctrl + H
 - To close Window:
 ctrl + shift + W
 
+- To cancel selection:
+Escape
 
+- Font Zoom In:
+Alt + =
 
+- Font Zoom Out:
+Alt + -
 
+- Open Folder:
+ctrl + K and then ctrl + O
 
+- Open Recent:
+ctrl + R
 
+- Fold an selected element:
+ctrl + shift + [
 
+- Unfold an selected element:
+ctrl + shift + ]
 
+- Open new window:
+ctrl + shift + N
+
+- Select All:
+ctrl + A
 
 
 
