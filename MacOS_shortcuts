@@ -18,3 +18,34 @@ Home / End         Go to beginning/end of line
 ⌘K ⌘U              Remove line comment
 ⌘/                 Toggle line comment
 ⌥Z                 Toggle word wrap
+⇧⌘P, F1            Show Command Palette
+⌘P                 Quick Open, Go to File…
+⇧⌘N                New window/instance
+⌘W                 Close window/instance
+⌘,                 User Settings
+⌘K ⌘S              Keyboard Shortcuts
+⌘N                 New File
+⌘O                 Open File
+⌘S                 Save
+⇧⌘S                Save As 
+⌥⌘S                Save All
+⌘W                 Close
+⌘K ⌘W              Close All
+⇧⌘T                Reopen closed editor
+⌘K                 Enter Keep preview mode editor open
+⌃Tab / ⌃⇧Tab       Open next / previous
+⌘K P               Copy path of active file
+⌘K R               Reveal active file in Finder
+⌘K O               Show active file in new window/instance
+⌘F                 Find
+⌥⌘F                Replace
+⌘G / ⇧⌘G           Find next/previous
+⌥Enter             Select all occurrences of Find match
+⌘D                 Add selection to next Find match
+⌘K ⌘D              Move last selection to next Find match
+⌥ +                click Insert cursor
+⌥⌘↑                Insert cursor above
+⌥⌘↓                Insert cursor below
+⌘U                 Undo last cursor operation
+⇧⌥I                Insert cursor at end of each line selected
+⌘L                 Select current line
