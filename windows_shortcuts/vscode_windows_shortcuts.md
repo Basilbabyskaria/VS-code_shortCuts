@@ -72,13 +72,17 @@ ctrl + H
 - To close Window:
 ctrl + shift + W
 
+- Toggle full screen:
+F11
 
+- Show Search:
+Ctrl+Shift+F
 
+- Save As:
+Ctrl+Shift+S
 
-
-
-
-
+- Show Problems panel
+Ctrl+Shift+M
 
 
 
