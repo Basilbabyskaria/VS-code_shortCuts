@@ -69,7 +69,8 @@ ctrl + F
 - To replace:
 ctrl + H
 
-
+- To close Window:
+ctrl + shift + W
 
 
 
