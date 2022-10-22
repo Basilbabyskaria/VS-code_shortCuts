@@ -72,8 +72,77 @@ ctrl + H
 - To close Window:
 ctrl + shift + W
 
+- Toggle full screen:
+F11
 
+- Show Search:
+Ctrl+Shift+F
 
+- Save As:
+Ctrl+Shift+S
+
+- Show Problems panel:
+Ctrl+Shift+M
+
+- Find:
+Ctrl+F 
+
+- Replace:
+Ctrl+H 
+
+- Find next/previous:
+F3 / Shift+F3 
+
+- Select all occurences of Find match:
+Alt+Enter 
+
+- Add selection to next Find match:
+Ctrl+D 
+
+- Move last selection to next Find match:
+Ctrl+K Ctrl+D 
+
+- Toggle case-sensitive / regex / whole word:
+Alt+C / R / W 
+
+- New File:
+Ctrl+N
+
+- Save All:
+Ctrl+K S 
+
+- Close:
+Ctrl+F4 
+
+- Close All:
+Ctrl+K Ctrl+W 
+
+- Reopen closed editor:
+Ctrl+Shift+T 
+
+- Keep preview mode editor open:
+Ctrl+K Enter
+
+- Open next:
+Ctrl+Tab
+
+- Open previous:
+Ctrl+Shift+Tab 
+
+- Copy path of active file:
+Ctrl+K P 
+
+- Reveal active file in Explorer:
+Ctrl+K R 
+
+- Show active file in new window/instance:
+Ctrl+K O 
+
+- New window/instance:
+Ctrl+Shift+N 
+
+- Close window/instance:
+Ctrl+Shift+W 
 
 
 
