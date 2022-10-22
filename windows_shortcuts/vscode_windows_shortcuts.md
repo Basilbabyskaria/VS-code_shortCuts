@@ -9,6 +9,9 @@ ctrl + O
 - To save a file:
 ctrl + S
 
+- To select all:
+ctrl + A
+
 - To open command palette:
 ctrl + shift + P
 
@@ -143,6 +146,18 @@ Ctrl+Shift+N
 
 - Close window/instance:
 Ctrl+Shift+W 
+
+- To fold code:
+ctrl + Shift + [
+
+- To unfold code:
+ctrl + shift + ]
+
+- To Zoom In:
+Alt + =
+
+- To Zoom Out:
+Alt + -
 
 
 
