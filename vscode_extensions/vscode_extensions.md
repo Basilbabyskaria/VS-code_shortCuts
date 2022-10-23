@@ -22,6 +22,7 @@ This extensions aims to improve your productivity while coding using VSCode
 - [Bookmarks](vscode:extension/alefragnani.Bookmarks)
 - [ESLint](vscode:extension/dbaeumer.vscode-eslint)
 - [Vim](vscode:extension/vscodevim.vim)
+- [Peacock](marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - [GitHub Pull Requests and Issues](vscode:extension/GitHub.vscode-pull-request-github)
 - [npm Intellisense](vscode:extension/christian-kohler.npm-intellisense)
 - [DotENV](vscode:extension/mikestead.dotenv)
