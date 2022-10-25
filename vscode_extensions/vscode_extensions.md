@@ -38,3 +38,6 @@ This extensions aims to improve your productivity while coding using VSCode
 - [Solidity](vscode:extension/JuanBlanco.solidity)
 - [PlantUML](vscode:extension/jebbs.plantuml)
 - [Jest](vscode:extension/Orta.vscode-jest)
+- [Stylelint](vscode:extension/stylelint.vscode-stylelint)
+- [Color Highlight](vscode:extension/naumovs.color-highlight)
+- [Settings Sync](vscode:extension/Shan.code-settings-sync)
