@@ -82,6 +82,9 @@ git checkout -b <your_branch_name>
 ```
 git add .
 ```
+```
+git status
+```
 
 **10.** Commit your changes .
 
@@ -92,7 +95,7 @@ git commit -m "bla bla bla"
 **11.** Push the committed changes in your feature branch to your remote repo.
 
 ```
-git push -u origin <your_branch_name> g
+git push -u origin <your_branch_name> 
 ```
 
 **12.** To create a pull request, click on `Compare & pull request`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
