@@ -31,32 +31,76 @@ A repository where you can dumb all use full shortcuts and work arounds in VS Co
             https://www.linkedin.com/.........../  
             "
            
-### Follow the below steps for contribution
+## Getting Started
 
-> 1. first fork this repo 
+Below are the steps to follow to contribute to this project:
 
-> 2. make a directory/folder on your local system and initial it,
-```sh
-mkdir <your directory name>
-git init
+**1.** Fork [this](https://github.com/Basilbabyskaria/VS-code_shortCuts.git) repository.
+
+**2.** Clone your forked copy of the project.
+
 ```
-> 3. then clone this repository on your local system by running below command
-```sh
-git clone "your forked repo url"
+git clone https://github.com/<your_user_name>/VS-code_shortCuts.git
 ```
-> 4. Work on the project
 
-> 6. after creating your changes and in order to add your changes run the following command 
-```sh
+where `your_user_name` is your GitHub username.
+
+**3.** Navigate to the project directory.
+
+```
+cd VS-code_shortCuts
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/Basilbabyskaria/VS-code_shortCuts.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your main branch to keep it at par with the main project(updated repository). Feel free to raise new issues.
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Make necessary changes and commit those changes
+
+**9.** Track your changes.
+
+```
 git add .
 ```
-> 7. Its time to commit the changes made
 
-```sh
-git commit -m "your valid commit message"
+**10.** Commit your changes .
+
+```
+git commit -m "bla bla bla"
 ```
 
-> 8. then push the changes that you have made, run the below command,
-```sh
-git push -u origin main
+**11.** Push the committed changes in your feature branch to your remote repo.
+
 ```
+git push -u origin <your_branch_name> g
+```
+
+**12.** To create a pull request, click on `Compare & pull request`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create pull request`.
+
+**15.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
+
+Happy Hacking 
