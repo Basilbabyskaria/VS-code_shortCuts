@@ -15,3 +15,9 @@ that takes the maximum line length into account, wrapping code when necessary.
 ## NPM
 * Supports running npm scripts defined in the package.json & validating the installed modules
 against the dependencies defined in the package.json.
+
+## Settings Sync
+* It allows you to sync pretty much everything you customize on VSCode to Github, from settings to keyboard shortcuts to other VSCode extensions.
+
+## Auto Rename Tag
+* While VSCode inherently highlights matching tags and immediately adds closing tags whenever you type an opening tag, Auto Rename Tag automatically renames tags that you change.
