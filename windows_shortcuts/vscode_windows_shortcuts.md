@@ -72,6 +72,30 @@ ctrl + H
 - To close Window:
 ctrl + shift + W
 
+Ctrl+Space, Ctrl+I Trigger suggestion
+
+Ctrl+Shift+Space Trigger parameter hints
+
+Shift+Alt+F Format document
+
+Ctrl+K Ctrl+F Format selection
+
+F12 Go to Definition
+
+Alt+F12 Peek Definition
+
+Ctrl+K F12 Open Definition to the side
+
+Ctrl+. Quick Fix
+
+Shift+F12 Show References
+
+F2 Rename Symbol
+
+Ctrl+K Ctrl+X Trim trailing whitespace
+
+Ctrl+K M Change file language
+
 
 
 
