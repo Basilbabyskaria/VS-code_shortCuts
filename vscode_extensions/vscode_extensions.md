@@ -38,6 +38,17 @@ This extensions aims to improve your productivity while coding using VSCode
 - [Solidity](vscode:extension/JuanBlanco.solidity)
 - [PlantUML](vscode:extension/jebbs.plantuml)
 - [Jest](vscode:extension/Orta.vscode-jest)
+
+
+
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [flask-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.flask-snippets)
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - [Stylelint](vscode:extension/stylelint.vscode-stylelint)
 - [Color Highlight](vscode:extension/naumovs.color-highlight)
 - [Settings Sync](vscode:extension/Shan.code-settings-sync)
