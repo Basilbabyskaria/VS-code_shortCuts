@@ -21,3 +21,12 @@ against the dependencies defined in the package.json.
 
 ## Auto Rename Tag
 * While VSCode inherently highlights matching tags and immediately adds closing tags whenever you type an opening tag, Auto Rename Tag automatically renames tags that you change.
+
+## Competitive Programming helper
+* This extension allows you to quickly compile, run and judge competitive programming problems from within VS Code. You can automatically download testcases write & test your own problems.
+
+## ES7 React/Redux/GraphQL/React-Native snippets
+* This extension provides you JavaScript and React/Redux snippets in ES7 with Babel plugin features for VS Code.
+
+## Thunder Client
+* Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code, hand-crafted by Ranga Vadhineni with simple and clean design.
